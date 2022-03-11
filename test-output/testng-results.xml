@@ -1,29 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-03-11T09:17:34Z" name="Default suite" finished-at="2022-03-11T09:18:02Z" duration-ms="27798">
+  <suite started-at="2022-03-11T10:19:55Z" name="Default suite" finished-at="2022-03-11T10:20:57Z" duration-ms="61972">
     <groups>
     </groups>
-    <test started-at="2022-03-11T09:17:34Z" name="Default test" finished-at="2022-03-11T09:18:02Z" duration-ms="27798">
-      <class name="selenium1_testNg.project2_testNg_0">
-        <test-method is-config="true" signature="init()[pri:0, instance:selenium1_testNg.project2_testNg_0@2aa3cd93]" started-at="2022-03-11T09:17:34Z" name="init" finished-at="2022-03-11T09:17:41Z" duration-ms="7306" status="PASS">
+    <test started-at="2022-03-11T10:19:55Z" name="Default test" finished-at="2022-03-11T10:20:57Z" duration-ms="61972">
+      <class name="selenium1_testNg.project2_testNg">
+        <test-method is-config="true" signature="init()[pri:0, instance:selenium1_testNg.project2_testNg@4b44655e]" started-at="2022-03-11T10:19:55Z" name="init" finished-at="2022-03-11T10:20:09Z" duration-ms="13175" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method signature="main()[pri:1, instance:selenium1_testNg.project2_testNg_0@2aa3cd93]" started-at="2022-03-11T09:17:41Z" name="main" finished-at="2022-03-11T09:17:47Z" duration-ms="6013" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- main -->
-        <test-method is-config="true" signature="init()[pri:0, instance:selenium1_testNg.project2_testNg_0@2aa3cd93]" started-at="2022-03-11T09:17:47Z" name="init" finished-at="2022-03-11T09:17:54Z" duration-ms="6533" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- init -->
-        <test-method signature="main1()[pri:2, instance:selenium1_testNg.project2_testNg_0@2aa3cd93]" started-at="2022-03-11T09:17:54Z" name="main1" finished-at="2022-03-11T09:18:02Z" duration-ms="7908" status="PASS">
+        <test-method signature="main1()[pri:1, instance:selenium1_testNg.project2_testNg@4b44655e]" started-at="2022-03-11T10:20:09Z" name="main1" finished-at="2022-03-11T10:20:11Z" duration-ms="2344" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- main1 -->
-      </class> <!-- selenium1_testNg.project2_testNg_0 -->
+        <test-method is-config="true" signature="init()[pri:0, instance:selenium1_testNg.project2_testNg@4b44655e]" started-at="2022-03-11T10:20:11Z" name="init" finished-at="2022-03-11T10:20:23Z" duration-ms="12141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="main2()[pri:2, instance:selenium1_testNg.project2_testNg@4b44655e]" started-at="2022-03-11T10:20:23Z" name="main2" finished-at="2022-03-11T10:20:30Z" duration-ms="6721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main2 -->
+        <test-method is-config="true" signature="init()[pri:0, instance:selenium1_testNg.project2_testNg@4b44655e]" started-at="2022-03-11T10:20:30Z" name="init" finished-at="2022-03-11T10:20:45Z" duration-ms="15107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="main3()[pri:3, instance:selenium1_testNg.project2_testNg@4b44655e]" started-at="2022-03-11T10:20:45Z" name="main3" finished-at="2022-03-11T10:20:57Z" duration-ms="12458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main3 -->
+      </class> <!-- selenium1_testNg.project2_testNg -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
