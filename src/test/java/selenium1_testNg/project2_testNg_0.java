@@ -19,7 +19,7 @@ public class project2_testNg_0 {
 	// each test method
 	@BeforeMethod
 	public void init() {
-		System.setProperty("webdriver.chrome.driver", "./lib/chromedriver");
+		System.setProperty("webdriver.chrome.driver", ".\\lib\\new\\chromedriver.exe");
 		driver = new ChromeDriver();
 		driver.get("http://elearningm1.upskills.in/");
 		driver.manage().window().maximize();
